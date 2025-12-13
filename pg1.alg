@@ -17,7 +17,7 @@
     <item code="101#debutalgo" algoitem="DEBUT_ALGORITHME">
         <item code="5#x#2#pasliste" algoitem="x PREND_LA_VALEUR 2"/>
         <item code="5#y#3#pasliste" algoitem="y PREND_LA_VALEUR 3"/>
-        <item code="5#z#4#pasliste" algoitem="z PREND_LA_VALEUR 4"/>
+        <item code="5#z#4#pasliste" algoitem="z PREND_LA_VALEUR 1"/>
         <item code="5#tot#2*(x+y+z)#pasliste" algoitem="tot PREND_LA_VALEUR 2*(x+y+z)"/>
         <item code="5#tot2#2*tot#pasliste" algoitem="tot2 PREND_LA_VALEUR 2*tot"/>
         <item code="3#tot#1#pasliste" algoitem="AFFICHER tot"/>
